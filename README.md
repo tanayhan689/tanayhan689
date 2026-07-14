@@ -20,7 +20,6 @@ I'm an AI and Data Science enthusiast passionate about building intelligent syst
 
 My interests span across machine learning, deep learning, predictive analytics, healthcare AI, natural language processing, and responsible AI.
 
-Currently I'm expanding my research portfolio while preparing for a PhD focused on Artificial Intelligence.
 
 ---
 
